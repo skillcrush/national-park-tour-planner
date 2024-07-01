@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+lark langchain-pinecone
+langchainhub
+fuzzywuzzy
+python-Levenshtein
+python-dotenv
+pinecone-client
+lxml
+wikipedia
+flask

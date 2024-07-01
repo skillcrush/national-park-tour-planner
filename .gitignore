@@ -1,0 +1,33 @@
+# Ignore Python virtual environment folders
+venv/
+__pycache__/
+
+# Ignore local development configuration files
+instance/
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE-specific files (customize based on your IDE)
+.vscode/
+.idea/
+
+# Ignore logs and temporary files
+*.log
+*.swp
+*.swo
+
+# Ignore database files (if applicable)
+*.db
+
+# Ignore sensitive data (such as API keys or passwords)
+secrets.ini
+secrets.yaml
+
+# Ignore env files
+.env
+
+# Ignore any other files specific to your project
+# Add more rules as needed
